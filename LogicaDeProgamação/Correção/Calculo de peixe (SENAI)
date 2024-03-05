@@ -1,7 +1,7 @@
 Algoritmo "semnome"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 27/02/2024
 Var
@@ -10,7 +10,7 @@ PS : real
 
 Inicio
 
-Escreval("*****Calculo de Multa pela Pesca de São Paulo*****")
+Escreval("*****Calculo de Multa pela Pesca de SÃ£o Paulo*****")
 Escreval("")
 Escreval("")
 Escreva("Coloque o peso total dos peixes:")
@@ -19,18 +19,18 @@ Limpatela()
 
 
 Se PS <= 50 Entao
-Escreval("*****Calculo de Multa pela Pesca de São Paulo*****")
+Escreval("*****Calculo de Multa pela Pesca de SÃ£o Paulo*****")
 Escreval("")
-Escreval("Você não precisa pagar nenhuma multa por quilo excedente.")
+Escreval("VocÃª nÃ£o precisa pagar nenhuma multa por quilo excedente.")
 Escreval("")
 Escreval("")
 Escreval("")
 
-Senão
+SenÃ£o
 
-Escreval("*****Calculo de Multa pela Pesca de São Paulo*****")
+Escreval("*****Calculo de Multa pela Pesca de SÃ£o Paulo*****")
 Escreval("")
-Escreval("Você tera que pagar multa por quilo excedente...")
+Escreval("VocÃª tera que pagar multa por quilo excedente...")
 Escreval("")
 Escreval("Seu excesso em quilos foi de:",(PS-50))
 Escreval("")
