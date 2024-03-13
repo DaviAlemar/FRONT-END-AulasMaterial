@@ -1,0 +1,22 @@
+body {background-color:black;
+    color:blueviolet;
+}
+    #banner{
+      width: 600px;
+    }
+    #cabeçario{
+        background-color: blue;
+        /*Espaçamento 1 valor = todos lados*/
+          /*Espaçamento 2 valor = eixo y (cima embaixo) eixo x (esquerda e direita*/
+            /*Espaçamento 4 valor = cima,direita.baixo e esq*/
+    
+        padding: 20px;
+        margin: 10px 0px;
+    } 
+    #links{
+        background-color: rgb(255, 0, 0);
+    }
+    #artigo{
+        background-color: rgb(255, 0, 221);
+    }
+
